@@ -1,0 +1,1 @@
+This is Ethan's not quite first git project, but first git project with the Odin Project.
